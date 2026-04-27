@@ -1,0 +1,6 @@
+[tool.pyright]
+reportMissingModuleSource = "none"
+reportMissingImports = "warning"
+pythonVersion = "3.10"
+typeCheckingMode = "basic"
+
